@@ -1,0 +1,16 @@
+.form-control {
+    border-radius:0 !important;
+}
+
+.btn {
+    border-radius:0 !important;
+}
+
+.datatable-length select{
+    width: 75px;
+    display: inline-block;
+}
+
+.v2-table__pagination-box .pagination-text-info {
+    color: #333;
+}
